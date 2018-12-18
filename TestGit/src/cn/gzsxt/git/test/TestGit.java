@@ -14,4 +14,7 @@ public class TestGit {
 	public void ewdit(){
 		System.out.println("修改代码！！！！");
 	}
+	 public  void testDve(){
+		 System.out.println("this is dve branch!!!!!!!!");
+	 }
 }
