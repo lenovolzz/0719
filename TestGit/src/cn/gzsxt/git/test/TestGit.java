@@ -11,4 +11,7 @@ public class TestGit {
 		System.out.println("this is the first git repository!!!!!!!!");
 		System.out.println("update git!!!!!!!!!!!!");
 	}
+	public void ewdit(){
+		System.out.println("修改代码！！！！");
+	}
 }
