@@ -8,6 +8,7 @@ package cn.gzsxt.git.test;
  */
 public class TestGit {
 	public static void main(String[] args) {
+		int b=3;
 		System.out.println("this is the first git repository!!!!!!!!");
 		System.out.println("update git!!!!!!!!!!!!");
 	}
